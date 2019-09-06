@@ -1,9 +1,8 @@
 /*
-//  This file displays a single red square.
-//  It should be modified to display a rotating color cube.
+//  This file displays a rotating color cube.
 //
 //  Created by Tabitha Peck on 7/16/13.
-//  Edited: 8/26/2014
+//  Edited by Megan Feichtel: 8/26/2014
 */
 
 #include <iostream>
